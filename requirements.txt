@@ -1,0 +1,8 @@
+opencv_python==4.4.0.42
+PyAutoGUI==0.9.50
+pyttsx3==2.90
+wikipedia==1.4.0   
+SpeechRecognition==3.8.1
+requests==2.24.0
+win10toast==0.9
+Pillow==8.1.0
